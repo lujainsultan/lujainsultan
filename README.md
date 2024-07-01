@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LujainAlharbi
+- 👋 Hi, I’m Lujain Alharbi
 - 👀 I’m interested in learning game development.
 - 🦾 I’m currently learning Front-end development.
 - 👩🏻‍💻 Currently learning Unity and C#.
