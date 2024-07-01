@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @LujainAlharbi
-- 👀 I’m interested in game
+- 👀 I’m interested in learning game development.
 - 🦾 I’m currently learning Front-end development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👩🏻‍💻 Currently learning Unity and C#.
+- 📫 reach me at Lujainsultan9@gmai.com
 
 <!---
 lujainsultan/lujainsultan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
